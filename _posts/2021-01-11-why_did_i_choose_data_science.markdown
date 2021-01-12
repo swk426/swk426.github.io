@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Did I Choose Data Science?"
-date:       2021-01-11 06:13:47 +0000
+date:       2021-01-11 01:13:48 -0500
 permalink:  why_did_i_choose_data_science
 ---
 
@@ -28,6 +28,8 @@ With such a power gained through the information, not only it will provide a bet
 I have always had a heart to help others who are in need. In my elementary school year, I dreamed of becoming a firefighter. Not because the job looked attractive, but because I wanted to make a positive impact on other people’s lives. In my middle school year, I dreamed of becoming a football player and playing in Europe’s big football clubs. Again because I was inspired by many football players with great sportsmanship. They were making a positive impact on people’s lives. Since high school and to my recent chapter of my life, I served my community as a Taekwondo Master. I have tried to make a positive impact on people around me. One of the reasons I changed my career is to continue making a positive impact on others but on a bigger scale. 
 
 With the recent global pandemic that took away hundreds thousands of lives, many great data scientists have stepped up to fight the battle against COVID-19. For example, [Artificial intelligence model detects asymptomatic Covid-19 infections through cellphone-recorded coughs](https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029); a group of data scientists from MIT was able to build a model that can accurately classify COVID-19 patients by just the sound of coughing. [Francesca Dominici, co-director of the Harvard Data Science Initiative,](https://news.harvard.edu/gazette/story/2020/09/harvard-journal-keeps-data-scientists-connected-during-covid/) said “Data science is becoming paramount to understanding almost all of the critical aspects of COVID-19. That includes the development and testing of a COVID-19 vaccine, understanding the factors that slow the rate of infection, understanding the role of airborne transmission — which is critical to understanding whether we can reopen the schools — identifying environmental and socioeconomic factors, and tracking mobility to better understand key behavioral interventions to contain the spread of the virus.” 
+
+Data Scientists can make the global impact and help many people who are in need of help.
 
 ## Wrap Up
 If you are thinking about getting into the field of data, I welcome you with both arms spread wide. One of my favorite quotes “What would you do if you knew you would not fail?” I believe that the world of data will always exist as long as there are records and it will be a field that would not fail. Let us continually seek the opportunity, enjoy what we do, filling the needs of others and building better communities together.
