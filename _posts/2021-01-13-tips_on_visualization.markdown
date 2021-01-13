@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Tips on Visualization"
-date:       2021-01-13 09:05:54 +0000
+date:       2021-01-13 04:05:55 -0500
 permalink:  tips_on_visualization
 ---
 
