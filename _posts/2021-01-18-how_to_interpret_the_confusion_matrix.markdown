@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How to interpret the Confusion Matrix?"
-date:       2021-01-18 23:58:35 +0000
+date:       2021-01-18 18:58:36 -0500
 permalink:  how_to_interpret_the_confusion_matrix
 ---
 
@@ -55,7 +55,7 @@ I suggest following article for more detail concept on Precision vs. Recall and 
 
 ## Wrap up
 
-In this blog, I have covered the interpretation of the confusion matrix and related terms. In next blog, I will be covering the actual practice of confusion matrix in machine model with code along in python. 
+In this blog, I have covered the interpretation of the confusion matrix and related terms. In next blog, I will be covering the actual practice of confusion matrix in machine model with code along in python. [Confusion Matrix Code Along](https://swk426.github.io/confusion_matrix_code_along)
 
 ![](https://images.unsplash.com/photo-1533601017-dc61895e03c0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8dG8lMjBiZSUyMGNvbnRpbnVlZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80)
 
