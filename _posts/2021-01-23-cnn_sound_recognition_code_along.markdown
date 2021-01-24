@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CNN Sound Recognition Code Along"
-date:       2021-01-23 23:31:43 +0000
+date:       2021-01-23 18:31:43 -0500
 permalink:  cnn_sound_recognition_code_along
 ---
 
@@ -10,11 +10,11 @@ permalink:  cnn_sound_recognition_code_along
 
 In this article, I would like to cover the basic idea of how to build a sound recognition Convolutional Neural Network Model. The basic concept is the following.
 
-Load Necessary Libraries
-Obtain Data
-Preprocess sound data into arrays 
-Build Model
-Check outcome
+* Load Necessary Libraries
+* Obtain Data
+* Preprocess sound data into arrays 
+* Build Model
+* Check outcome
 
 This notebook is designed with simple codes to cover the basic concept.
 
